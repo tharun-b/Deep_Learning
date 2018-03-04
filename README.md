@@ -13,3 +13,7 @@ This is my assignment on Andrew Ng's special course "Deep Learning Specializatio
 
 5) Sequence Models
 
+
+This is the description [Coursera Course Link](https://www.coursera.org/specializations/deep-learning)
+
+
