@@ -17,3 +17,4 @@ This is my assignment on Andrew Ng's special course "Deep Learning Specializatio
 This is the description [Coursera Course Link](https://www.coursera.org/specializations/deep-learning)
 
 
+![Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/9FS2BN9LHMDS)
